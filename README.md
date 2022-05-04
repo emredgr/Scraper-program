@@ -1,2 +1,2 @@
 # Scraper program
- General purpose web scrapy program (basic level)
+ General purpose web scraper program (basic level)
